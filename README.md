@@ -11,3 +11,7 @@ Step 2:
 ```bash
 yarn install
 ```
+Step 3:
+```bash
+yarn dev
+```
